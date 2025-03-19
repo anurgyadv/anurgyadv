@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=white)](mailto:anurag.yadav.ds@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anurgyadv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anurgyadv/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/anurgyadv)
 [![Resume](https://img.shields.io/badge/-Resume-000?style=flat&logo=Adobe&logoColor=white)](https://github.com/anurgyadv/anurgyadv/blob/main/Resume%20-%20Anurag%20Yadav.pdf)
 
